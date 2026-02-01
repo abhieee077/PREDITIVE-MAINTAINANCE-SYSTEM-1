@@ -88,6 +88,3 @@ Control Feedwater Pump (M-001) sensors in real-time to simulate:
 - **NASA C-MAPSS Dataset**: Used to train XGBoost model
 - **Simulated Sensor Streams**: Real-time physics-based degradation
 
----
-
-Built for hackathon demonstration | MIT License
